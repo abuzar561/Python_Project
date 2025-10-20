@@ -1,0 +1,16 @@
+Date,Product,Category,Units_Sold,Unit_Price,Profit_Per_Unit,Region
+2025-01-03,Laptop,Electronics,5,75000,8000,North
+2025-01-05,Phone,Electronics,15,25000,4000,South
+2025-01-06,Chair,Furniture,20,2500,500,West
+2025-01-07,Table,Furniture,10,6000,800,East
+2025-01-08,Headphones,Electronics,25,3000,600,North
+2025-02-10,Monitor,Electronics,8,15000,2500,South
+2025-02-12,Sofa,Furniture,12,10000,1200,West
+2025-03-01,Tablet,Electronics,18,20000,3500,East
+2025-03-05,Mouse,Electronics,30,1500,200,North
+2025-03-07,Keyboard,Electronics,22,2000,300,South
+2025-04-02,Desk,Furniture,9,8000,900,West
+2025-04-06,TV,Electronics,6,50000,7000,East
+2025-04-10,Cushion,Furniture,15,1200,150,North
+2025-04-15,Lamp,Furniture,10,1500,250,South
+2025-05-01,Camera,Electronics,7,45000,6000,West
